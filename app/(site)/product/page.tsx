@@ -1,5 +1,4 @@
 import BlogData from "@/components/Blog/blogData";
-import SharePost from "@/components/Blog/SharePost";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
